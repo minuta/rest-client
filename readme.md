@@ -1,4 +1,4 @@
-# Spring REST Webservice
+# Spring REST Client
 
 ### About
 A simple REST client, that consumes a JSON object from a REST Web Service.
